@@ -8,7 +8,7 @@
 - 📫 How to reach me: You Can Check My Portfolio Here 
 - [My Portfolio Website](https://www.machadopedro.com)
 
-[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/Eddz123/github-readme-stats)
+[![Eddz Francisco Github States](https://github-readme-stats.vercel.app/api?username=Eddz123&show_icons=true&theme=dracula)](https://github.com/Eddz123/github-readme-stats)
 
 
 
