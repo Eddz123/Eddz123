@@ -1,8 +1,20 @@
 ### Hi there 👋
 
+- Hi, My Name Is Eddz Francisco and I am a Bachelor of Science in Computer Science In Asian Institute Of Computer Studies In Philippines.
+
+- 🔭 I’m Currently Working On Projects And Stuff To Enchanced My Coding Skills  
+
+
+- 📫 How to reach me: You Can Check My Portfolio Here 
+- [My Portfolio Website](https://www.machadopedro.com)
+
+[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/Eddz123/github-readme-stats)
+
+
+
 <!--
 **Eddz123/Eddz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
