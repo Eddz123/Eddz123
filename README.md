@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddz123&layout=compact)](https://github.com/Eddz123/github-readme-stats)
 
-[![Eddz Francisco Github States](https://github-readme-stats.vercel.app/api?username=Eddz123&show_icons=true&theme=synthwave)](https://github.com/Eddz123/github-readme-stats)
+[![Eddz Francisco Github States](https://github-readme-stats.vercel.app/api?username=Eddz123&show_icons=true&theme=synthwave)](https://github.com/Eddz123/github-readme-stats&count_private=true)
 
 
 
