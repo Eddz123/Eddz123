@@ -7,7 +7,7 @@
 - 📫 How to reach me: You Can Check My Portfolio Here 
 - [My Portfolio Website](https://eddz123.github.io/Myportfolio/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddz123&layout=compact)](https://github.com/Eddz123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddz123&layout=cobalt)](https://github.com/Eddz123/github-readme-stats)
 
 [![Eddz Francisco Github States](https://github-readme-stats.vercel.app/api?username=Eddz123&show_icons=true&theme=synthwave)](https://github.com/Eddz123/github-readme-stats&count_private=true)
 
